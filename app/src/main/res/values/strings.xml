@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MarvelCharacters</string>
+
+    <string name="retry">Повторить</string>
+    <string name="has_error">Произошла ошибка.</string>
+    <string name="unknown">Имя неизвестно</string>
+    <string name="empty_description">Описание отсутствует</string>
+    <string name="something_wrong">Что-то пошло не так...</string>
+    <string name="network_error">Ошибка сети</string>
+</resources>
